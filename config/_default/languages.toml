@@ -1,0 +1,15 @@
+# Uncomment this file to enable multilanguage site support
+
+[zh-cn]
+contentDir="content/zh-cn"
+languageName = "中文"
+languagedirection = "ltr"
+title = "之成之管"
+weight = 1
+
+[en]
+contentDir="content/en"
+languageName = "English"
+languagedirection = "ltr"
+title = "Zhicheng's Tube"
+weight = 1
