@@ -2,136 +2,136 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.zhengzhicheng.com/en/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/</loc>
     <lastmod>2023-02-01T03:52:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.zhengzhicheng.com/zh-cn/"
+                href="https://sunroof.zhengzhicheng.com/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.zhengzhicheng.com/en/"
+                href="https://sunroof.zhengzhicheng.com/en/"
                 />
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/categories/blog/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/categories/blog/</loc>
     <lastmod>2023-02-01T03:52:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/p/hello-blog/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/p/hello-blog/</loc>
     <lastmod>2023-02-01T03:52:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.zhengzhicheng.com/zh-cn/p/hello-blog/"
+                href="https://sunroof.zhengzhicheng.com/zh-cn/p/hello-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.zhengzhicheng.com/en/p/hello-blog/"
+                href="https://sunroof.zhengzhicheng.com/en/p/hello-blog/"
                 />
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/categories/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/categories/</loc>
     <lastmod>2023-02-01T03:52:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.zhengzhicheng.com/zh-cn/categories/"
+                href="https://sunroof.zhengzhicheng.com/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.zhengzhicheng.com/en/categories/"
+                href="https://sunroof.zhengzhicheng.com/en/categories/"
                 />
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/p/hello-blog/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/p/hello-blog/</loc>
     <lastmod>2023-02-01T03:52:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/tags/hugo/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/tags/hugo/</loc>
     <lastmod>2023-02-01T03:52:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/tags/org-mode/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/tags/org-mode/</loc>
     <lastmod>2023-02-01T03:52:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/post/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/post/</loc>
     <lastmod>2023-02-01T03:52:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.zhengzhicheng.com/zh-cn/post/"
+                href="https://sunroof.zhengzhicheng.com/zh-cn/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.zhengzhicheng.com/en/post/"
+                href="https://sunroof.zhengzhicheng.com/en/post/"
                 />
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/tags/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/tags/</loc>
     <lastmod>2023-02-01T03:52:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.zhengzhicheng.com/zh-cn/tags/"
+                href="https://sunroof.zhengzhicheng.com/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.zhengzhicheng.com/en/tags/"
+                href="https://sunroof.zhengzhicheng.com/en/tags/"
                 />
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/categories/web/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/categories/web/</loc>
     <lastmod>2023-02-01T03:52:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/archives/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.zhengzhicheng.com/zh-cn/archives/"
+                href="https://sunroof.zhengzhicheng.com/zh-cn/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.zhengzhicheng.com/en/archives/"
+                href="https://sunroof.zhengzhicheng.com/en/archives/"
                 />
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/page/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.zhengzhicheng.com/zh-cn/page/"
+                href="https://sunroof.zhengzhicheng.com/zh-cn/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.zhengzhicheng.com/en/page/"
+                href="https://sunroof.zhengzhicheng.com/en/page/"
                 />
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/categories/example-category/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/categories/example-category/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.zhengzhicheng.com/zh-cn/categories/example-category/"
+                href="https://sunroof.zhengzhicheng.com/zh-cn/categories/example-category/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.zhengzhicheng.com/en/categories/example-category/"
+                href="https://sunroof.zhengzhicheng.com/en/categories/example-category/"
                 />
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/links/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/links/</loc>
   </url><url>
-    <loc>https://blog.zhengzhicheng.com/en/search/</loc>
+    <loc>https://sunroof.zhengzhicheng.com/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.zhengzhicheng.com/zh-cn/search/"
+                href="https://sunroof.zhengzhicheng.com/zh-cn/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.zhengzhicheng.com/en/search/"
+                href="https://sunroof.zhengzhicheng.com/en/search/"
                 />
   </url>
 </urlset>
