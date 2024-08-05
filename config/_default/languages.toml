@@ -15,3 +15,5 @@ languageName = "English"
 languagedirection = "ltr"
 title = "Zhicheng's sunroof"
 weight = 1
+[en.params]
+subtitle = "Never Stop"

@@ -15,9 +15,17 @@ url = "https://github.com/zhengfran"
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
+identifier = "Run"
 name = "Run"
-url = "https://twitter.com"
+url = "https://sunroof.zhengzhicheng.com/running_page/"
 
 [social.params]
-icon = "brand-twitter"
+icon = "run"
+
+[[social]]
+identifier = "Email"
+name = "email"
+url = "mailto:zhicheng.ink98@gmail.com"
+
+[social.params]
+icon = "mail"
