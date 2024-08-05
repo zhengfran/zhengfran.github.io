@@ -5,7 +5,9 @@ contentDir="content/zh-cn"
 languageName = "中文"
 languagedirection = "ltr"
 title = "之成的天窗"
-weight = 1
+weight = 2
+[zh-cn.params]
+subtitle = "永不止步"
 
 [en]
 contentDir="content/en"

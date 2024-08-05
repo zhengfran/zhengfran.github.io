@@ -1,0 +1,23 @@
+# Configure main menu and social menu
+# [[main]]
+# identifier = "home"
+# name = "Home"
+# url = "/zh-cn"
+# [main.params]
+# icon = "home"
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/zhengfran"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "twitter"
+name = "Run"
+url = "https://twitter.com"
+
+[social.params]
+icon = "brand-twitter"
