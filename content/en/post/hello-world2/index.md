@@ -11,7 +11,4 @@ tags:
     - hugo
 ---
 
-
-
-
 > Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
